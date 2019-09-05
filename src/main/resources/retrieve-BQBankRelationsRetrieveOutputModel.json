@@ -1,0 +1,27 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "732971"
+  },
+  "bankRelationsInstanceRecord" : {
+    "businessUnitEmployeeReference" : "784551",
+    "bankRelationType" : "bankRelationType"
+  },
+  "bankRelationsRetrieveActionResponse" : "bankRelationsRetrieveActionResponse",
+  "bankRelationsInstanceReport" : {
+    "bankRelationsInstanceReportParameters" : "bankRelationsInstanceReportParameters",
+    "bankRelationsInstanceReport" : {},
+    "bankRelationsInstanceReportRecord" : {},
+    "bankRelationsInstanceReportType" : "bankRelationsInstanceReportType"
+  },
+  "bankRelationsRetrieveActionTaskReference" : "BRRATR756862",
+  "bankRelationsInstanceAnalysis" : {
+    "bankRelationsInstanceAnalysisRecord" : {},
+    "bankRelationsInstanceAnalysisReport" : {},
+    "bankRelationsInstanceAnalysisParameters" : "bankRelationsInstanceAnalysisParameters",
+    "bankRelationsInstanceAnalysisReportType" : "bankRelationsInstanceAnalysisReportType"
+  },
+  "bankRelationsRetrieveActionTaskRecord" : {}
+}

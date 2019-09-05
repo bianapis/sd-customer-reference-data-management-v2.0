@@ -1,0 +1,47 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "786838"
+  },
+  "referenceInstanceRecord" : {
+    "dateofBirth" : "dateofBirth",
+    "socialNetworkContacts" : "socialNetworkContacts",
+    "corporateCustomerLegalEntityReference" : "726772",
+    "corporateCustomerReference" : "789621",
+    "customerNameSalutation" : "customerNameSalutation",
+    "companyOfficerReference" : {
+      "companyOfficerRole" : "companyOfficerRole"
+    },
+    "eMailAddress" : "eMailAddress",
+    "politicalExposureDescriptionRecord" : {},
+    "customerSinceDate" : "09-22-2018",
+    "governmentIssuedIdentityReference" : "752646",
+    "residencyStatus" : "residencyStatus",
+    "corporateAddress" : "corporateAddress",
+    "customerLegalEntityReference" : "748723",
+    "nationality" : "nationality",
+    "cellPhoneNumber" : "cellPhoneNumber",
+    "politicalExposureType" : "politicalExposureType",
+    "residentialAddress" : "residentialAddress",
+    "governmentIssuedDocumentDetails" : {
+      "documentDirectoryEntryInstanceReference" : "755812"
+    }
+  },
+  "referenceRetrieveActionResponse" : "referenceRetrieveActionResponse",
+  "referenceRetrieveActionTaskRecord" : {},
+  "referenceInstanceAnalysis" : {
+    "referenceInstanceAnalysisReport" : {},
+    "referenceInstanceAnalysisParameters" : "referenceInstanceAnalysisParameters",
+    "referenceInstanceAnalysisReportType" : "referenceInstanceAnalysisReportType",
+    "referenceInstanceAnalysisRecord" : {}
+  },
+  "referenceRetrieveActionTaskReference" : "RRATR759465",
+  "referenceInstanceReport" : {
+    "referenceInstanceReportParameters" : "referenceInstanceReportParameters",
+    "referenceInstanceReportRecord" : {},
+    "referenceInstanceReport" : {},
+    "referenceInstanceReportType" : "referenceInstanceReportType"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "demographicsUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "demographicsUpdateActionTaskReference" : "DUATR706172",
+  "demographicsInstanceRecord" : {
+    "employmentHistory" : "employmentHistory",
+    "ethnicityReligion" : "ethnicityReligion",
+    "servicingConstraints" : "servicingConstraints",
+    "socioEconomicClassification" : "socioEconomicClassification",
+    "employment" : "employment",
+    "educationHistory" : "educationHistory"
+  }
+}

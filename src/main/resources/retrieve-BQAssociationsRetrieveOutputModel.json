@@ -1,0 +1,34 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "702677"
+  },
+  "associationsRetrieveActionResponse" : "associationsRetrieveActionResponse",
+  "associationsInstanceAnalysis" : {
+    "associationsInstanceAnalysisReport" : {},
+    "associationsInstanceAnalysisRecord" : {},
+    "associationsInstanceAnalysisParameters" : "associationsInstanceAnalysisParameters",
+    "associationsInstanceAnalysisReportType" : "associationsInstanceAnalysisReportType"
+  },
+  "associationsRetrieveActionTaskReference" : "ARATR760752",
+  "associationsRetrieveActionTaskRecord" : {},
+  "associationsInstanceRecord" : {
+    "associateReference" : {
+      "associateObligationDependencyDescription" : "associateObligationDependencyDescription",
+      "productInstanceReference" : "771772",
+      "associationValidFromToDate" : "09-22-2018",
+      "associateType" : "associateType"
+    },
+    "preferredBeneficiary" : "preferredBeneficiary",
+    "employeeReference" : "718309",
+    "proxyRepresentativePowerofAttorneyReference" : "731010"
+  },
+  "associationsInstanceReport" : {
+    "associationsInstanceReportType" : "associationsInstanceReportType",
+    "associationsInstanceReportRecord" : {},
+    "associationsInstanceReportParameters" : "associationsInstanceReportParameters",
+    "associationsInstanceReport" : {}
+  }
+}

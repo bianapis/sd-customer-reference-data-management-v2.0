@@ -1,0 +1,14 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "bankRelationsInstanceRecord" : {
+    "businessUnitEmployeeReference" : "783876",
+    "bankRelationType" : "bankRelationType"
+  },
+  "bankRelationsUpdateActionTaskReference" : "BRUATR764441",
+  "bankRelationsUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

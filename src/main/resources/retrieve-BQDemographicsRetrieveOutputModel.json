@@ -1,0 +1,31 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "777295"
+  },
+  "demographicsRetrieveActionTaskRecord" : {},
+  "demographicsInstanceAnalysis" : {
+    "demographicsInstanceAnalysisRecord" : {},
+    "demographicsInstanceAnalysisParameters" : "demographicsInstanceAnalysisParameters",
+    "demographicsInstanceAnalysisReportType" : "demographicsInstanceAnalysisReportType",
+    "demographicsInstanceAnalysisReport" : {}
+  },
+  "demographicsRetrieveActionResponse" : "demographicsRetrieveActionResponse",
+  "demographicsInstanceReport" : {
+    "demographicsInstanceReportParameters" : "demographicsInstanceReportParameters",
+    "demographicsInstanceReport" : {},
+    "demographicsInstanceReportType" : "demographicsInstanceReportType",
+    "demographicsInstanceReportRecord" : {}
+  },
+  "demographicsRetrieveActionTaskReference" : "DRATR770236",
+  "demographicsInstanceRecord" : {
+    "employmentHistory" : "employmentHistory",
+    "ethnicityReligion" : "ethnicityReligion",
+    "servicingConstraints" : "servicingConstraints",
+    "socioEconomicClassification" : "socioEconomicClassification",
+    "employment" : "employment",
+    "educationHistory" : "educationHistory"
+  }
+}

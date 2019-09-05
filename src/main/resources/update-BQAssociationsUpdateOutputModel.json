@@ -1,0 +1,21 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "associationsUpdateActionTaskReference" : "AUATR755112",
+  "associationsInstanceRecord" : {
+    "associateReference" : {
+      "associateObligationDependencyDescription" : "associateObligationDependencyDescription",
+      "productInstanceReference" : "704779",
+      "associationValidFromToDate" : "09-22-2018",
+      "associateType" : "associateType"
+    },
+    "preferredBeneficiary" : "preferredBeneficiary",
+    "employeeReference" : "743466",
+    "proxyRepresentativePowerofAttorneyReference" : "776567"
+  },
+  "updateResponseRecord" : {},
+  "associationsUpdateActionTaskRecord" : {}
+}

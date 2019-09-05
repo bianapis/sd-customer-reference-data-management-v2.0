@@ -1,0 +1,11 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "requestRecordReference" : "RRR783255",
+  "customerReferenceDataDirectoryEntryRequestActionTaskReference" : "CRDDERATR700986",
+  "customerReferenceDataDirectoryEntryRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

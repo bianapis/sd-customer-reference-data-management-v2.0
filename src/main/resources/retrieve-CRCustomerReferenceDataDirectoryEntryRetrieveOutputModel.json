@@ -1,0 +1,21 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "718756"
+  },
+  "customerReferenceDataDirectoryEntryInstanceAnalysis" : {
+    "customerReferenceDataDirectoryEntryInstanceAnalysisReportType" : "customerReferenceDataDirectoryEntryInstanceAnalysisReportType",
+    "customerReferenceDataDirectoryEntryInstanceAnalysisReport" : {},
+    "customerReferenceDataDirectoryEntryInstanceAnalysisData" : "customerReferenceDataDirectoryEntryInstanceAnalysisData"
+  },
+  "customerReferenceDataDirectoryEntryRetrieveActionTaskRecord" : {},
+  "customerReferenceDataDirectoryEntryRetrieveActionTaskReference" : "CRDDERATR770497",
+  "customerReferenceDataDirectoryEntryInstanceReportRecord" : {
+    "customerReferenceDataDirectoryEntryInstanceReportData" : "customerReferenceDataDirectoryEntryInstanceReportData",
+    "customerReferenceDataDirectoryEntryInstanceReportType" : "customerReferenceDataDirectoryEntryInstanceReportType",
+    "customerReferenceDataDirectoryEntryInstanceReport" : {}
+  },
+  "customerReferenceDataDirectoryEntryRetrieveActionResponse" : "customerReferenceDataDirectoryEntryRetrieveActionResponse"
+}

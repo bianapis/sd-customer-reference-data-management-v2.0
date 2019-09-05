@@ -1,0 +1,32 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "date" : "09-22-2018"
+  },
+  "referenceInstanceRecord" : {
+    "dateofBirth" : "dateofBirth",
+    "socialNetworkContacts" : "socialNetworkContacts",
+    "corporateCustomerLegalEntityReference" : "787140",
+    "corporateCustomerReference" : "731862",
+    "customerNameSalutation" : "customerNameSalutation",
+    "companyOfficerReference" : {
+      "companyOfficerRole" : "companyOfficerRole"
+    },
+    "eMailAddress" : "eMailAddress",
+    "politicalExposureDescriptionRecord" : {},
+    "customerSinceDate" : "09-22-2018",
+    "governmentIssuedIdentityReference" : "796169",
+    "residencyStatus" : "residencyStatus",
+    "corporateAddress" : "corporateAddress",
+    "customerLegalEntityReference" : "745570",
+    "nationality" : "nationality",
+    "cellPhoneNumber" : "cellPhoneNumber",
+    "politicalExposureType" : "politicalExposureType",
+    "residentialAddress" : "residentialAddress",
+    "governmentIssuedDocumentDetails" : {
+      "documentDirectoryEntryInstanceReference" : "745723"
+    }
+  },
+  "referenceUpdateActionTaskRecord" : {},
+  "referenceUpdateActionTaskReference" : "RUATR737278",
+  "updateResponseRecord" : {}
+}

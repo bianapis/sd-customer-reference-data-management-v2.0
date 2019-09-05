@@ -1,0 +1,11 @@
+{
+  "customerReferenceDataDirectoryEntryInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "749783"
+  },
+  "customerReferenceDataDirectoryEntryUpdateActionTaskRecord" : {},
+  "customerReferenceDataDirectoryEntryUpdateActionTaskReference" : "CRDDEUATR780680",
+  "updateResponseRecord" : {}
+}
